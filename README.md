@@ -77,7 +77,7 @@
 - **LeviRank** (💬 NLP): limited query expansion for document retrieval and ranking. *Touché @ CLEF 2022.* → [ceur-ws.org/Vol-3180/paper-259.pdf](https://ceur-ws.org/Vol-3180/paper-259.pdf) `Author #1`
 - **RerrFact** (💬 NLP): reduced evidence retrieval for scientific claim verification. *SDU @ AAAI 2022.* → [arxiv.org/abs/2202.02646](https://arxiv.org/abs/2202.02646) `Author #1`
 - **COVID-19 Prognosis from CT** (👁️ CV): severity estimation via a Single-Shot-Detector pipeline. *MTAP 2022.* → [doi.org/10.1007/s11042-022-12214-6](https://doi.org/10.1007/s11042-022-12214-6) `Author #1`
-- **Building Safer Autonomous Agents** (🎮 RL): causal experiment design over risky-driving behaviour. *CCCI 2021, Best Paper Award.* → [ieeexplore.ieee.org/document/9583209](https://ieeexplore.ieee.org/document/9583209) `Author #1`
+- **Building Safer Autonomous Agents** (🎮 RL): causal experiment design over risky-driving behaviour. *CCCI 2021, Best Paper Award (Informatics Category).* → [ieeexplore.ieee.org/document/9583209](https://ieeexplore.ieee.org/document/9583209) `Author #1`
 
 </details>
 

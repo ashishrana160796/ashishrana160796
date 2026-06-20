@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishrana160796/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?user=5XxfLlIAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://ashishrana160796.github.io"><img src="https://img.shields.io/badge/Website-5BC0BE?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/arana-initiatives"><img src="https://img.shields.io/badge/arana--initiatives-181717?style=for-the-badge&logo=github&logoColor=white" alt="Research GitHub" /></a>
 </p>
 
@@ -31,8 +32,8 @@
 - 🔬 **Research Taste:** XAI, LLM systems, prototype-based explanations, and agentic memory.
 - 🛠️ **Engineering Taste:** AI software packages, reproducible ML pipelines, complete deployed software with backend/CI/CD, and code that ideally runs more than once.
 - 📄 **Selected Research:** mostly first-author, except where academic gravity had other plans.
-- 📬 **Reach Me Via:** [LinkedIn](https://www.linkedin.com/in/ashishrana160796/) and [follow my research on Google Scholar](https://scholar.google.com/citations?user=5XxfLlIAAAAJ).
-- 🧮 **Important Life Rule:** $(1.01)^{365} - (0.99)^{365} \gg 0$ — 365 = one year of small choices compounding.
+- 📬 **Reach Me Via:** [LinkedIn](https://www.linkedin.com/in/ashishrana160796/), [follow my research on Google Scholar](https://scholar.google.com/citations?user=5XxfLlIAAAAJ), and [my website](https://ashishrana160796.github.io).
+- 🧮 **Important Life Rule:** $(1.01)^{365} - (0.99)^{365} \gg 0$; one year of compounding efforts.
 
 ---
 

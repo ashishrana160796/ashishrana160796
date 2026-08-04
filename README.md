@@ -37,28 +37,17 @@
 
 ---
 
-### 📊 GitHub In Charts, Not Walls Of Text
+### 📊 GitHub Activity, Not Badge Confetti
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/ashishrana160796/ashishrana160796?style=for-the-badge&label=commits%20this%20year&color=5BC0BE" alt="Commit activity this year" />
-  <img src="https://img.shields.io/github/last-commit/ashishrana160796/ashishrana160796?style=for-the-badge&label=last%20commit&color=F2CC8F" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/ashishrana160796/ashishrana160796?style=for-the-badge&label=profile%20repo%20size&color=E07A5F" alt="Profile repository size" />
+  <a href="https://github.com/ashishrana160796">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrana160796&theme=github-dark&hide_border=true&bg_color=0B132B&color=F7F7FF&title_color=5BC0BE&line=5BC0BE&point=E07A5F&area=true&area_color=5BC0BE&custom_title=Contribution%20Activity%20%28Last%2031%20Days%29" alt="GitHub contribution activity graph" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishrana160796&hide_border=true&background=0B132B&stroke=1C2541&ring=5BC0BE&fire=E07A5F&currStreakLabel=5BC0BE&sideLabels=C9D1D9&dates=8892B0&currStreakNum=F7F7FF&sideNums=F7F7FF" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ashishrana160796&hide_border=true&background=0B132B&stroke=1C2541&ring=5BC0BE&fire=E07A5F&currStreakLabel=5BC0BE&sideLabels=C9D1D9&dates=8892B0&currStreakNum=F7F7FF&sideNums=F7F7FF" alt="GitHub streak summary" />
 </p>
-
-<details>
-<summary><b>📈 Public GitHub Metrics, For Those Who Enjoy Clicking Things</b></summary>
-
-These public GitHub endpoints do not need an authentication token for public repositories:
-
-- [Weekly commit count](https://api.github.com/repos/ashishrana160796/ashishrana160796/stats/participation)
-- [Weekly code frequency](https://api.github.com/repos/ashishrana160796/ashishrana160796/stats/code_frequency)
-- [Hourly commit punch card](https://api.github.com/repos/ashishrana160796/ashishrana160796/stats/punch_card)
-
-</details>
 
 ---
 

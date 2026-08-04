@@ -40,8 +40,9 @@
 ### 📊 GitHub In Charts, Not Walls Of Text
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishrana160796&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishrana160796&theme=github_dark" alt="Top languages by commit" />
+  <img src="https://img.shields.io/github/commit-activity/y/ashishrana160796/ashishrana160796?style=for-the-badge&label=commits%20this%20year&color=5BC0BE" alt="Commit activity this year" />
+  <img src="https://img.shields.io/github/last-commit/ashishrana160796/ashishrana160796?style=for-the-badge&label=last%20commit&color=F2CC8F" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/ashishrana160796/ashishrana160796?style=for-the-badge&label=profile%20repo%20size&color=E07A5F" alt="Profile repository size" />
 </p>
 
 <p align="center">
@@ -49,15 +50,13 @@
 </p>
 
 <details>
-<summary><b>📈 Commit Rhythm & Language Split, Plotted</b></summary>
+<summary><b>📈 Public GitHub Metrics, For Those Who Enjoy Clicking Things</b></summary>
 
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishrana160796&theme=github_dark" alt="Profile details" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishrana160796&theme=github_dark" alt="Repositories per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishrana160796&theme=github_dark&utcOffset=2" alt="Productive time" />
-</p>
+These public GitHub endpoints do not need an authentication token for public repositories:
+
+- [Weekly commit count](https://api.github.com/repos/ashishrana160796/ashishrana160796/stats/participation)
+- [Weekly code frequency](https://api.github.com/repos/ashishrana160796/ashishrana160796/stats/code_frequency)
+- [Hourly commit punch card](https://api.github.com/repos/ashishrana160796/ashishrana160796/stats/punch_card)
 
 </details>
 

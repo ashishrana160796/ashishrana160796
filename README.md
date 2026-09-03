@@ -4,7 +4,7 @@
   Both Are Under Active Observation.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=130&section=header&text=Ashish%20Rana&fontColor=F7F7FF&fontSize=30&fontAlignY=38&desc=M.Sc.%20Data%20Science%20%C2%B7%204%2B%20Years%20in%20Data%20Science%20and%20Research&descAlignY=60&descSize=14" alt="Ashish Rana header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=130&section=header&text=Ashish%20Rana&fontColor=F7F7FF&fontSize=30&fontAlignY=38&desc=M.Sc.%20Data%20Science%20%C2%B7%202%20Years%20Research%20%C2%B7%201%20Year%20LLM%20%C2%B7%201%20Year%20XAI%20%C2%B7%204%20Years%20Industry&descAlignY=60&descSize=14" alt="Ashish Rana header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -32,28 +32,14 @@
 - 🔬 **Research Taste:** XAI, LLM systems, prototype-based explanations, and agentic memory.
 - 🛠️ **Engineering Taste:** AI software packages, reproducible ML pipelines, complete deployed software with backend/CI/CD, and code that ideally runs more than once.
 - 📄 **Selected Research:** mostly first-author, except where academic gravity had other plans.
-- 📬 **Reach Me Via:** [LinkedIn](https://www.linkedin.com/in/ashishrana160796/), [follow my research on Google Scholar](https://scholar.google.com/citations?user=5XxfLlIAAAAJ), and [my website](https://ashishrana160796.github.io).
-- 🧮 **Important Life Rule:** $(1.01)^{365} - (0.99)^{365} \gg 0$; one year of compounding efforts.
-
----
-
-### 📊 GitHub Activity, Not Badge Confetti
-
-<p align="center">
-  <a href="https://github.com/ashishrana160796">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishrana160796&theme=github-dark&hide_border=true&bg_color=0B132B&color=F7F7FF&title_color=5BC0BE&line=5BC0BE&point=E07A5F&area=true&area_color=5BC0BE&custom_title=Contribution%20Activity%20%28Last%2031%20Days%29" alt="GitHub contribution activity graph" />
-  </a>
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=ashishrana160796&hide_border=true&background=0B132B&stroke=1C2541&ring=5BC0BE&fire=E07A5F&currStreakLabel=5BC0BE&sideLabels=C9D1D9&dates=8892B0&currStreakNum=F7F7FF&sideNums=F7F7FF" alt="GitHub streak summary" />
-</p>
+- 📬 **Reach Me Via:** [email](mailto:prod.ashish.rana@gmail.com), [my website](https://ashishrana160796.github.io), and [see my work on Google Scholar](https://scholar.google.com/citations?user=5XxfLlIAAAAJ).
+- 🧮 **Important Life Rule:** $(1.01)^{365} - (0.99)^{365} \gg 0$; Yearly Smallest Of Efforts Compounds.
 
 ---
 
 ### 🔬 Selected Research
 
-- **Oblivion** (🧠 LLM): self-adaptive agentic memory control for LLMs via decay-driven activation. *Pre-print available.* → [arxiv.org/abs/2604.00131](https://arxiv.org/abs/2604.00131) `Author #1`
+- **Oblivion** (🧠 LLM): self-adaptive agentic memory control for LLMs via decay-driven activation. *EMNLP 2026 Main Conference.* → [arxiv.org/abs/2604.00131](https://arxiv.org/abs/2604.00131) `Author #1`
 - **Prototype-Based Learning for Healthcare** (🤖 ML): interpretable disease-risk prediction and explanation. *ICDM Demo 2025, Best Demo Paper.* → [arxiv.org/abs/2601.02106](https://arxiv.org/abs/2601.02106) `Author #1`
 - **Robust Prototype-Based Network with RBF Foundations** (🤖 ML): classification-by-components with interpretable foundations. *AAAI 2025.* → [arxiv.org/abs/2412.15499](https://arxiv.org/abs/2412.15499) `Co-Author`
 
@@ -74,9 +60,9 @@
 
 ### 💼 Where I've Worked
 
-> ~**4.2 years** of full-time experience (NEC Laboratories Europe + GE Healthcare).
+> **2 years** of research experience, including **1 year LLM** and **1 year XAI**, alongside **4 years** of industry experience.
 
-**Full-Time, ~4.2 yrs**
+**Research First, Industry Grounded**
 
 - 🧠 `LLM` **Research Engineer**, NEC Laboratories Europe, Heidelberg *(Jun 2025 – Mar 2026)*
 - 🤖 `ML` **Research Associate**, NEC Laboratories Europe, Heidelberg *(Jan 2024 – May 2025)*

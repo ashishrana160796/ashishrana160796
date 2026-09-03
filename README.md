@@ -4,7 +4,7 @@
   Both Are Under Active Observation.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=130&section=header&text=Ashish%20Rana&fontColor=F7F7FF&fontSize=30&fontAlignY=38&desc=M.Sc.%20Data%20Science%20%C2%B7%202%20Years%20Research%20%C2%B7%201%20Year%20LLM%20%C2%B7%201%20Year%20XAI%20%C2%B7%204%20Years%20Industry&descAlignY=60&descSize=14" alt="Ashish Rana header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=130&section=header&text=Ashish%20Rana&fontColor=F7F7FF&fontSize=30&fontAlignY=38&desc=M.Sc.%20Data%20Science%20%C2%B7%204%20Years%20Industry%20Experience%20%282%20Years%20Industrial%20Research%20%281%20Year%20XAI%2C%201%20Year%20Reliable%20LLMs%29%29&descAlignY=60&descSize=14" alt="Ashish Rana header" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -31,13 +31,13 @@
 
 - 🔬 **Research Taste:** XAI, LLM systems, prototype-based explanations, and agentic memory.
 - 🛠️ **Engineering Taste:** AI software packages, reproducible ML pipelines, complete deployed software with backend/CI/CD, and code that ideally runs more than once.
-- 📄 **Selected Research:** mostly first-author, except where academic gravity had other plans.
-- 📬 **Reach Me Via:** [email](mailto:prod.ashish.rana@gmail.com), [my website](https://ashishrana160796.github.io), and [see my work on Google Scholar](https://scholar.google.com/citations?user=5XxfLlIAAAAJ).
+- 📄 **Selected Industrial Research:** recent research contributions, mostly first-author, except where academic gravity had other plans.
+- 📬 **Reach Me Via:** [Email](mailto:prod.ashish.rana@gmail.com), [LinkedIn](https://www.linkedin.com/in/ashishrana160796/), [My Website](https://ashishrana160796.github.io), and [See My Work On Google Scholar](https://scholar.google.com/citations?user=5XxfLlIAAAAJ).
 - 🧮 **Important Life Rule:** $(1.01)^{365} - (0.99)^{365} \gg 0$; Yearly Smallest Of Efforts Compounds.
 
 ---
 
-### 🔬 Selected Research
+### 🔬 Selected Industrial Research
 
 - **Oblivion** (🧠 LLM): self-adaptive agentic memory control for LLMs via decay-driven activation. *EMNLP 2026 Main Conference.* → [arxiv.org/abs/2604.00131](https://arxiv.org/abs/2604.00131) `Author #1`
 - **Prototype-Based Learning for Healthcare** (🤖 ML): interpretable disease-risk prediction and explanation. *ICDM Demo 2025, Best Demo Paper.* → [arxiv.org/abs/2601.02106](https://arxiv.org/abs/2601.02106) `Author #1`
@@ -60,7 +60,7 @@
 
 ### 💼 Where I've Worked
 
-> **2 years** of research experience, including **1 year LLM** and **1 year XAI**, alongside **4 years** of industry experience.
+> **4 Years Industry Experience** (**2 Years Industrial Research** (**1 Year XAI**, **1 Year Reliable LLMs**))
 
 **Research First, Industry Grounded**
 
